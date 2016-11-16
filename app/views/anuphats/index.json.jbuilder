@@ -1,0 +1,1 @@
+json.array! @anuphats, partial: 'anuphats/anuphat', as: :anuphat

@@ -1,0 +1,2 @@
+module AnuphatsHelper
+end

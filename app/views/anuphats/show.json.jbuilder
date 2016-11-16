@@ -1,0 +1,1 @@
+json.partial! "anuphats/anuphat", anuphat: @anuphat
